@@ -1,4 +1,3 @@
-
 ## 🚀 Featured Project
 
 <p align="left">
@@ -9,6 +8,9 @@
     <img src="https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
   </a>
 </p>
+
+---
+
 ## 💻 Projects
 
 ### 🧪 AgentCheck — AI Agent Evaluation & Reliability Platform
@@ -21,5 +23,3 @@ A platform that evaluates AI agent reliability by checking tool selection, argum
 - 🧪 Includes automated tests using Pytest
 
 **Tech Stack:** Python · FastAPI · Streamlit · Pandas · Pytest
-
-[View Source Code](https://github.com/Rakshitha44-mrs/AgentCheck) · [Live Demo](https://agentcheck-3o5unshe49wgpfsiwcbvhe.streamlit.app/)
