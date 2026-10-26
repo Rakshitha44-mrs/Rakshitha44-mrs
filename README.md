@@ -1,6 +1,15 @@
 
 ## 🚀 Featured Project
-https://agentcheck-3o5unshe49wgpfsiwcbvhe.streamlit.app/
+
+<p align="left">
+  <a href="https://github.com/Rakshitha44-mrs/AgentCheck">
+    <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code" />
+  </a>
+  <a href="https://agentcheck-3o5unshe49wgpfsiwcbvhe.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+
 
 ### 🧪 AgentCheck — AI Agent Evaluation & Reliability Platform
 
