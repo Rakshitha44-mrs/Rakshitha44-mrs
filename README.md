@@ -9,7 +9,14 @@
     <img src="https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
   </a>
 </p>
+## 💻 Projects
 
+### 🧪 [AgentCheck – AI Agent Evaluation & Reliability Platform](https://github.com/Rakshitha44-mrs/AgentCheck)
+- Built a platform to evaluate AI agent reliability and detect failures in tool selection, arguments, and output correctness.
+- Developed REST APIs using FastAPI and an interactive dashboard using Streamlit.
+- Added automated tests and batch evaluation to assess multiple test cases.
+
+**Tech Stack:** Python · FastAPI · Streamlit · Pytest
 
 ### 🧪 AgentCheck — AI Agent Evaluation & Reliability Platform
 
